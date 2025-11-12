@@ -84,7 +84,7 @@ export  default function HeroSection() {
         </p>
         <div className="mt-20 md:mt-24">
           <a
-            href="/halicare.apk" 
+            href="/haliCare.apk" 
             className="text-blue-900 bg-white px-8 py-4 rounded-lg shadow-md inline-block font-semibold text-lg md:text-xl hover:text-white hover:bg-blue-500"
           >
             Download App
